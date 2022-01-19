@@ -1,0 +1,15 @@
+{
+  "name": "modern-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "scss": "node-sass --output-style compressed --source-map true --source-map-contents true --source-map-embed true --watch style.scss --output css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
